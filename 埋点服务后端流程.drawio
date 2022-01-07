@@ -1,1 +1,119 @@
-<mxfile host="app.diagrams.net" modified="2022-01-07T11:28:54.111Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" version="16.1.4" etag="5TixRu5K4qoRfhQ207Bb" type="github"><diagram id="mPtExZCmbYHCGr9HCUGS">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-07T11:56:57.110Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="3MyyPujFsHysq4y6Tm_t" version="16.1.4" type="github">
+  <diagram id="mPtExZCmbYHCGr9HCUGS" name="第 1 页">
+    <mxGraphModel dx="1673" dy="925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TajKKlMqMVFQa3vzvhor-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TajKKlMqMVFQa3vzvhor-1" target="TajKKlMqMVFQa3vzvhor-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TajKKlMqMVFQa3vzvhor-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="160" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TajKKlMqMVFQa3vzvhor-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TajKKlMqMVFQa3vzvhor-2" target="TajKKlMqMVFQa3vzvhor-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TajKKlMqMVFQa3vzvhor-2" value="日活监听" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="75" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TajKKlMqMVFQa3vzvhor-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TajKKlMqMVFQa3vzvhor-4" target="TajKKlMqMVFQa3vzvhor-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TajKKlMqMVFQa3vzvhor-4" value="访问接口" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TajKKlMqMVFQa3vzvhor-9" value="完成（系统记录）" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="75" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TajKKlMqMVFQa3vzvhor-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TajKKlMqMVFQa3vzvhor-12" target="TajKKlMqMVFQa3vzvhor-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TajKKlMqMVFQa3vzvhor-12" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="170" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TajKKlMqMVFQa3vzvhor-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TajKKlMqMVFQa3vzvhor-13" target="TajKKlMqMVFQa3vzvhor-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TajKKlMqMVFQa3vzvhor-13" value="APP下载" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="505" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TajKKlMqMVFQa3vzvhor-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TajKKlMqMVFQa3vzvhor-15" target="TajKKlMqMVFQa3vzvhor-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TajKKlMqMVFQa3vzvhor-15" value="访问接口" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="505" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TajKKlMqMVFQa3vzvhor-17" value="成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="390" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TajKKlMqMVFQa3vzvhor-18" value="完成（系统记录）" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="505" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TajKKlMqMVFQa3vzvhor-20" value="成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="390" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TajKKlMqMVFQa3vzvhor-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TajKKlMqMVFQa3vzvhor-21" target="TajKKlMqMVFQa3vzvhor-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TajKKlMqMVFQa3vzvhor-21" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="570" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TajKKlMqMVFQa3vzvhor-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TajKKlMqMVFQa3vzvhor-22" target="TajKKlMqMVFQa3vzvhor-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TajKKlMqMVFQa3vzvhor-22" value="新用户注册量" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="75" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TajKKlMqMVFQa3vzvhor-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TajKKlMqMVFQa3vzvhor-24" target="TajKKlMqMVFQa3vzvhor-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TajKKlMqMVFQa3vzvhor-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TajKKlMqMVFQa3vzvhor-24" target="TajKKlMqMVFQa3vzvhor-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TajKKlMqMVFQa3vzvhor-24" value="用户访问注册接口" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TajKKlMqMVFQa3vzvhor-26" value="回滚" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TajKKlMqMVFQa3vzvhor-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TajKKlMqMVFQa3vzvhor-28" target="TajKKlMqMVFQa3vzvhor-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TajKKlMqMVFQa3vzvhor-28" value="发送MQ消息" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="75" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TajKKlMqMVFQa3vzvhor-30" value="成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="790" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TajKKlMqMVFQa3vzvhor-31" value="失败" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="710" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TajKKlMqMVFQa3vzvhor-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="740" as="sourcePoint" />
+            <mxPoint x="200" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="740" />
+              <mxPoint x="440" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TajKKlMqMVFQa3vzvhor-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TajKKlMqMVFQa3vzvhor-33" target="TajKKlMqMVFQa3vzvhor-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TajKKlMqMVFQa3vzvhor-33" value="监听MQ消息" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="75" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TajKKlMqMVFQa3vzvhor-35" value="成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="940" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TajKKlMqMVFQa3vzvhor-36" value="完成添加记录" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="1130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TajKKlMqMVFQa3vzvhor-38" value="成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1080" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
